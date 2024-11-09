@@ -74,24 +74,24 @@ As a versatile Computer Engineer , Artificial Intelligence/Machine Learning . Wi
   <table>
     <tr>
       <td>
-        <a href="https://github.com/Tanishqfarkya5/fast-gemini-nano">
+        <a href="https://github.com/Tanishqfarkya5/American-Sign-Language-Detection-using-Hand-tracking">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanishqfarkya5&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/Tanishqfarkya5/Weather-3d-ai-app.git">
+        <a href="https://github.com/Tanishqfarkya5/Machine-learning-">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanishqfarkya5&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/Tanishqfarkya5/moviedjangoai">
+        <a href="https://github.com/Tanishqfarkya5/Tensorflow ">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanishqfarkya5&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/Tanishqfarkya5/speech-to-text.git">
+        <a href="https://github.com/Tanishqfarkya5/stats-methods">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanishqfarkya5&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
