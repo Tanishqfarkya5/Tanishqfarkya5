@@ -75,29 +75,30 @@ As a versatile Computer Engineer , Artificial Intelligence/Machine Learning . Wi
     <tr>
       <td>
         <a href="https://github.com/Tanishqfarkya5/American-Sign-Language-Detection-using-Hand-tracking">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanishqfarkya5&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanishqfarkya5&repo=American-Sign-Language-Detection-using-Hand-tracking&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
         <a href="https://github.com/Tanishqfarkya5/Machine-learning-">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanishqfarkya5&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanishqfarkya5&repo=Machine-learning-&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/Tanishqfarkya5/Tensorflow ">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanishqfarkya5&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/Tanishqfarkya5/Tensorflow">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanishqfarkya5&repo=Tensorflow&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
         <a href="https://github.com/Tanishqfarkya5/stats-methods">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanishqfarkya5&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanishqfarkya5&repo=stats-methods&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
   </table>
 </div>
+
 
 ### GitHub Contribution Chart
 <a href="https://github.com/Tanishqfarkya5">
